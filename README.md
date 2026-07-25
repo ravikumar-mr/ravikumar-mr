@@ -161,81 +161,68 @@ Hi, I'm **Ravi Kumar**, an aspiring **Data Analyst** and **Web Developer** from 
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🩸 BloodLink</h3>
-      <p align="center">
-        A smart blood donor finder and management platform that connects donors, hospitals, NGOs and people during emergencies.
-      </p>
-      <p align="center">
-        <strong>React • TypeScript • Supabase • Tailwind CSS • Vercel</strong>
-      </p>
-      <p align="center">
-        <a href="https://lala-blood-link.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-    </td>
-
-```
-<td width="50%">
-  <h3 align="center">📊 Data Analytics Projects</h3>
-  <p align="center">
-    Data cleaning, business analysis and interactive dashboard projects created using SQL, Excel, Python and Power BI.
-  </p>
-  <p align="center">
-    <strong>SQL • Excel • Python • Pandas • Power BI</strong>
-  </p>
-  <p align="center">
-    <a href="https://github.com/ravikumar-mr?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-    </a>
-  </p>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🩸 BloodLink</h3>
+<p align="center">
+A smart blood donor finder and management platform that connects donors, hospitals, NGOs and people during emergencies.
+</p>
+<p align="center">
+<strong>React • TypeScript • Supabase • Tailwind CSS • Vercel</strong>
+</p>
+<p align="center">
+<a href="https://lalabloodlink.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+</p>
 </td>
-```
-
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Personal Portfolio</h3>
-      <p align="center">
-        A modern portfolio website showcasing my skills, projects, achievements and professional journey.
-      </p>
-      <p align="center">
-        <strong>React • JavaScript • CSS • Vercel</strong>
-      </p>
-      <p align="center">
-        <a href="https://theravi.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-        </a>
-      </p>
-    </td>
-
-```
-<td width="50%">
-  <h3 align="center">♻️ Waste2Worth</h3>
-  <p align="center">
-    A sustainability-focused project designed to convert waste into valuable and reusable resources.
-  </p>
-  <p align="center">
-    <strong>Innovation • Sustainability • Teamwork</strong>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/InnovativeX-1st%20Rank-success?style=for-the-badge" alt="1st Rank"/>
-  </p>
+<td width="50%" valign="top">
+<h3 align="center">📊 Data Analytics Projects</h3>
+<p align="center">
+Data cleaning, business analysis and interactive dashboard projects created using SQL, Excel, Python and Power BI.
+</p>
+<p align="center">
+<strong>SQL • Excel • Python • Pandas • Power BI</strong>
+</p>
+<p align="center">
+<a href="https://github.com/ravikumar-mr?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
+</a>
+</p>
 </td>
-```
-
-  </tr>
-</table>
-
----
-
-# 🏅 Achievements and Experience
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🌐 Personal Portfolio</h3>
+<p align="center">
+A modern portfolio website showcasing my skills, projects, achievements and professional journey.
+</p>
+<p align="center">
+<strong>React • JavaScript • CSS • Vercel</strong>
+</p>
+<p align="center">
+<a href="https://theravi.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">♻️ Waste2Worth</h3>
+<p align="center">
+A sustainability-focused project designed to convert waste into valuable and reusable resources.
+</p>
+<p align="center">
+<strong>Innovation • Sustainability • Teamwork</strong>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/InnovativeX-1st%20Rank-success?style=for-the-badge" alt="1st Rank">
+</p>
+</td>
+</tr>
+</table># 🏅 Achievements and Experience
 
 * 🥇 Secured **1st Rank at InnovativeX** for the Waste2Worth project
 * 🏆 Participated in the **24-hour DevSummit Hackathon**
