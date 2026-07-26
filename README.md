@@ -188,7 +188,7 @@ Data cleaning, business analysis and interactive dashboard projects created usin
 <strong>SQL • Excel • Python • Pandas • Power BI</strong>
 </p>
 <p align="center">
-<a href="https://github.com/ravikumar-mr?tab=repositories">
+<a href="https://datadesk.vercel.app/">
 <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
 </a>
 </p>
