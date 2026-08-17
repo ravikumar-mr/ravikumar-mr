@@ -59,7 +59,7 @@ fun_fact: "Turns raw data into insights and ideas into digital products 🚀"
 - 🎓 Pursuing a **Bachelor of Computer Applications (BCA)**
 - 📊 Skilled in **SQL, Python, Excel, Power BI**, data cleaning & visualization
 - 💻 Building responsive, user-friendly **full-stack web applications**
-- 🩸 Creator of **BloodLink** — a smart blood donor finder and management platform
+- 🩸 Creator of **RaktDani** — a smart blood donor finder and management platform
 - 🏆 **1st Rank at InnovativeX** for the *Waste2Worth* project
 - 🤝 Open to **Data Analyst, Business Analyst & Web Development** internships
 
@@ -151,11 +151,11 @@ fun_fact: "Turns raw data into insights and ideas into digital products 🚀"
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🩸 BloodLink</h3>
+<h3 align="center">🩸 RaktDani</h3>
 <p align="center">A smart blood donor finder and management platform that connects donors, hospitals, NGOs and people during emergencies.</p>
 <p align="center"><strong>React • TypeScript • Supabase • Tailwind CSS • Vercel</strong></p>
 <p align="center">
-<a href="https://lalabloodlink.vercel.app/">
+<a href="https://raktdani.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
 </a>
 </p>
